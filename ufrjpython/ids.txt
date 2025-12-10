@@ -1,0 +1,10 @@
+Ecoli_K12_MG1655
+Staphylococcus_aureus_N315
+Bacillus_subtilis_168
+Pseudomonas_aeruginosa_PAO1
+Mycobacterium_tuberculosis_H37Rv
+Salmonella_enterica_LT2
+Vibrio_cholerae_N16961
+Streptococcus_pneumoniae_TIGR4
+Helicobacter_pylori_26695
+Lactobacillus_acidophilus_NCFM

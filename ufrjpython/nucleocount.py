@@ -1,0 +1,9 @@
+DNA="GTCCAAGAGCGAGATCTGGGCTACGCCGGGCGCCCGGAGCCCTAGTCCAGCCCCCGGCCATCGCGGCCGCCGCCCAGCCAGGTGCAAAATGCCGTGTCATTGGGAGACTCCGCAGCCGGAGCATTAGATTACAGCTCGACGGAGCTCGGGAAGGGCGGCGGGGGTGGAAGATGAGCAGAAGCCCCTGTTCTCGGAACGCCGGCTGACAAG"
+adenina_count = DNA.count('A')
+timina_count = DNA.count('T')
+citosina_count = DNA.count('C')
+guanina_count = DNA.count ('G')
+print("ADENINAS: " + str(adenina_count))
+print("TIMINAS: "  + str(timina_count))
+print("CITOSINAS: " + str(citosina_count))
+print("GUANINAS: " + str(guanina_count))

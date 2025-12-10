@@ -1,0 +1,4 @@
+DNA="AAATTGATGACAAAGAGTCCATCACTTTATCCCGCCAAATAAACACAG"
+print(len(DNA)) 
+print (DNA.replace("GCC","Ala"))
+print(DNA[0:36])
